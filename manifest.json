@@ -1,0 +1,17 @@
+{
+    "name": "Sttifs_Pack",
+    "version_number": "1.3.0",
+    "website_url": "https://github.com/FittsJayden/LC_Sttifs_Pack",
+    "description": "Small pack with core mods and custom boombox music",
+    "dependencies": [
+        "bizzlemip-BiggerLobby-2.4.0",
+        "CodeEnder-Custom_Boombox_Fix-1.2.2",
+        "x753-More_Suits-1.3.2",
+        "Lancer_Gaming-Morer_Suits-1.1.0",
+        "FutureSavior-CrankThatJester-1.1.2",
+        "Isbjorn52-MetalPipe-1.0.0",
+        "Graze-AllwaysCanDance-1.0.0",
+        "Sligili-More_Emotes-1.0.0",
+        "tinyhoot-ShipLobby-1.0.2"
+    ]
+}
